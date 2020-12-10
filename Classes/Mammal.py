@@ -1,14 +1,14 @@
-class Mammel:
+class Mammal:
     def walk(self):
         print('walk')
 
 
-class Dog(Mammel):
+class Dog(Mammal):
     def bark(self):
         print('woof')
 
 
-class Cat(Mammel):
+class Cat(Mammal):
     def meow(self):
         print('meow')
 
