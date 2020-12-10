@@ -12,8 +12,3 @@ class Cat(Mammal):
     def meow(self):
         print('meow')
 
-
-dog = Dog()
-dog.bark()
-cat = Cat()
-cat.meow()
